@@ -1,4 +1,5 @@
 #test.py C:\Users\MAXHUB\my_repo1> folder
 
 print("Hello Students!!");
-prinnt("Welcome to django")
+print("Welcome to django");
+print("**All The Best**");
